@@ -1,0 +1,9 @@
+---
+name: Food
+version: 0.0.1
+main: Mmd\Food\Main
+api: 3.22.2
+command:
+  food:
+    permission: food.use
+...
